@@ -13,7 +13,7 @@ public class Main {
     int rand2 = (int) (Math.random() * twoLength);
     int rand3 = (int) (Math.random() * threeLength);
     String phrase = worldListOne[rand1] + " " + worldListTwo[rand2] + " " + worldListThree[rand3];
-    System.out.println("Все, что нам необходимо, это - " + phrase);
+    System.out.println("Все, что нам требуется, это - " + phrase);
 
     }
 }
